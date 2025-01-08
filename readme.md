@@ -2,5 +2,5 @@
 
 ## swap
 ```
-curl -s https://raw.githubusercontent.com/feewg/cloud/refs/heads/main/swap.sh | bash
+wget https://raw.githubusercontent.com/feewg/cloud/refs/heads/main/swap.sh && bash swap.sh 
 ```
